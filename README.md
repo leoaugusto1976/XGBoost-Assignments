@@ -4,7 +4,7 @@
 
 ### House Prices - Advanced Regression Techniques
 ### Link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-### File: 
+### File: [XGBoost-Regression-House-Prices.ipynb](https://github.com/leoaugusto1976/XGBoost-Assignments/blob/main/Regression/house-prices-advanced-regression-techniques/XGBoost-Regression-House-Prices.ipynb)
 
 I adhered to the instructions outlined in the notebook; however, the GridSearchCV process consumed a considerable amount of time, and unfortunately, I couldn't attain satisfactory results suitable for submission.
 
@@ -12,12 +12,12 @@ I adhered to the instructions outlined in the notebook; however, the GridSearchC
 
 ### Predict Student Performance from Game Play
 ### Link: https://www.kaggle.com/competitions/predict-student-performance-from-game-play/overview
-### File:
+### File: [XGBoost-Classification-Predict-Student-Performance-from-Game-Play.ipynb](https://github.com/leoaugusto1976/XGBoost-Assignments/blob/main/Classification/predict-student-performance-from-game-play/XGBoost-Classification-Predict-Student-Performance-from-Game-Play.ipynb)
 
 Unfortunately, due to the dataset's size, I encountered a memory error, preventing me from obtaining the results necessary for submission.
 
 ### Binary Classification with a Tabular Credit Card Fraud Dataset
 ### Link: https://www.kaggle.com/competitions/playground-series-s3e4/overview
-### File:
+### File: [XGBoost-Classification-Credit-Card-Fraud-Dataset.ipynb](https://github.com/leoaugusto1976/XGBoost-Assignments/blob/main/Classification/playground-series-s3e4/XGBoost-Classification-Credit-Card-Fraud-Dataset.ipynb)
 
 The code executed successfully, enabling me to generate accurate predictions and create a submission file
