@@ -26,6 +26,6 @@ The code executed successfully, enabling me to generate accurate predictions and
 
 ### San Francisco Crime Classification
 ### Link: https://www.kaggle.com/competitions/sf-crime/overview
-### File: [XGBoost-Multi-Class-Classification-San-Francisco-Crime.ipynb](https://github.com/leoaugusto1976/XGBoost-Assignments/blob/main/Multi-Class Classification/XGBoost-Multi-Class-Classification-San-Francisco-Crime.ipynb)
+### File: [XGBoost-Multi-Class-Classification-San-Francisco-Crime.ipynb](https://github.com/leoaugusto1976/XGBoost-Assignments/blob/main/Multi-Class%20Classification/XGBoost-Multi-Class-Classification-San-Francisco-Crime.ipynb)
 
 The code ran smoothly, allowing me to generate precise predictions and create a submission file. Unfortunately, I couldn't upload the submission CSV file as it exceeds 400MB in size.
