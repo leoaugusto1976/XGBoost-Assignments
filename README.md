@@ -1,6 +1,6 @@
 # XGBoost-Assignments
 
-## XGBoost Regression Assignment
+## XGBoost Regression
 
 ### House Prices - Advanced Regression Techniques
 ### Link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
@@ -21,3 +21,11 @@ Unfortunately, due to the dataset's size, I encountered a memory error, preventi
 ### File: [XGBoost-Classification-Credit-Card-Fraud-Dataset.ipynb](https://github.com/leoaugusto1976/XGBoost-Assignments/blob/main/Classification/playground-series-s3e4/XGBoost-Classification-Credit-Card-Fraud-Dataset.ipynb)
 
 The code executed successfully, enabling me to generate accurate predictions and create a submission file
+
+## Multi-class Classification with XGBoost
+
+### San Francisco Crime Classification
+### Link: https://www.kaggle.com/competitions/sf-crime/overview
+### File: [XGBoost-Multi-Class-Classification-San-Francisco-Crime.ipynb](https://github.com/leoaugusto1976/XGBoost-Assignments/blob/main/Multi-Class Classification/XGBoost-Multi-Class-Classification-San-Francisco-Crime.ipynb)
+
+The code ran smoothly, allowing me to generate precise predictions and create a submission file. Unfortunately, I couldn't upload the submission CSV file as it exceeds 400MB in size.
